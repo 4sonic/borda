@@ -16,18 +16,18 @@ defaults:
     path: ''
     type: work
   values:
-    image: 
-    project: 
-    client: 
-    subject: 
-    video: 
-    excerpt: 
-    description: 
-    is-featured: 
-    is-full-width: 
+    image:
+    project:
+    client:
+    subject:
+    video:
+    excerpt:
+    description:
+    is-featured:
+    is-full-width:
     images:
-    - image: 
-      aspect: 
+    - image:
+      aspect:
     layout: project
 url: https://www.813-studio.com
 description: 813 studio is a creative agency servicing brands within the horological
@@ -91,5 +91,3 @@ pagination:
   sort_reverse: true
 autopages:
   enabled: false
-imgix:
-  source: 813-studio.imgix.net
