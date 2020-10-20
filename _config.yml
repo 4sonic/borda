@@ -29,7 +29,7 @@ defaults:
     - image:
       aspect:
     layout: project
-url: https://www.813-studio.com
+url: https://borda.netlify.app/
 description: 813 studio is a creative agency servicing brands within the horological
   industry on matters of branding and content production
 permalink: pretty
